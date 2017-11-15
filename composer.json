@@ -15,6 +15,7 @@
         }
     ],
     "require": {
-        "drupal/admin_toolbar": "^1.20"
+        "drupal/admin_toolbar": "^1.20",
+        "drupal/pathauto": "^1.0"
     }
 }

@@ -4,6 +4,51 @@ description: 'A fast and feature-rich Drupal base install profile.'
 # version: VERSION
 core: 8.x
 
+# Required modules
+dependencies:
+  # core
+  - automated_cron
+  - block
+  - block_content
+  - block_place
+  - breakpoint
+  - ckeditor
+  - config
+  - contextual
+  - contact
+  - crop
+  - datetime_range
+  - dynamic_page_cache
+  - editor
+  - entity_reference
+  - field_ui
+  - file
+  - focal_point
+  - help
+  - history
+  - image
+  - link
+  - menu_link_content
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - search
+  - shortcut
+  - syslog
+  - taxonomy
+  - text
+  - toolbar
+  - tour
+  - url_embed
+  - views
+  - views_ui
+  # contrib
+  - admin_toolbar
+  - pathauto
 
 themes:
   - seven
