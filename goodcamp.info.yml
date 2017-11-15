@@ -1,0 +1,9 @@
+name: Good Camp
+type: profile
+description: 'A fast and feature-rich Drupal base install profile.'
+# version: VERSION
+core: 8.x
+
+
+themes:
+  - seven

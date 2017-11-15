@@ -1,0 +1,12 @@
+{
+    "name": "sean.dietrich/goodcamp",
+    "description": "Goodcamp Install Profile for camps",
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "Sean Dietrich",
+            "email": "sean@kanopistudios.com"
+        }
+    ],
+    "require": {}
+}
