@@ -8,5 +8,13 @@
             "email": "sean@kanopistudios.com"
         }
     ],
-    "require": {}
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+        "drupal/admin_toolbar": "^1.20"
+    }
 }
