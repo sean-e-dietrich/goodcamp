@@ -1,0 +1,2 @@
+# goodcamp
+Drupal Camp Distribution
